@@ -6,6 +6,7 @@
 <br/>örnek resim test.bmp
 <br/>Kodlar CodeBlocks IDE kullanarak C dilinde yazılmıştır.
 <br/>Derlemek için Windows'ta compile.cmd,Linux'ta ./compile.sh dosyasını kullanabilirsiniz.
+<br/>Döküman çıktısı için Doxygen kullanınız.
 <br/>
 <br/>Bilgisayar Mühendisi
 <br/>Salih Palamut
