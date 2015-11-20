@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1444900049 source:c:\users\salih\desktop\codeblocks\c_notlari\image_converter\src\main.c
+	"Headers/bitmap.h"
+	<locale.h>
+
+1444930426 c:\users\salih\desktop\codeblocks\c_notlari\image_converter\src\headers\bitmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1444899602 source:c:\users\salih\desktop\codeblocks\c_notlari\image_converter\src\sources\bitmap.c
+	"../Headers/bitmap.h"
+
+1447832215 source:c:\users\salih\desktop\codeblocks\image_converter\src\sources\bitmap.c
+	"../Headers/bitmap.h"
+
+1447832164 c:\users\salih\desktop\codeblocks\image_converter\src\headers\bitmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1447954391 source:c:\users\salih\documents\github\image converter\src\main.c
+	"Headers/bitmap.h"
+	<locale.h>
+	<time.h>
+
+1447954870 c:\users\salih\documents\github\image converter\src\headers\bitmap.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1447954818 source:c:\users\salih\documents\github\image converter\src\sources\bitmap.c
+	"../Headers/bitmap.h"
+

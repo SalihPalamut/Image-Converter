@@ -1,0 +1,20 @@
+/*! \mainpage Ön Gereksinimler
+
+  \section intro_sec Code::Blocks
+
+  \li Bu program Code::Blocks IDE aracýyla C dilinde Yazýlmýþtýr.
+  \li gcc v4.7 ile derlenmiþtir.
+  \section compile_sec IDE olmadan Derleme
+
+  \subsection Linux Linux ortamýnda derleme
+  \li Terminal açýn ctrl+alt+t
+  \li dosya yoluna gidin cd \<proje yolu\>/
+  \li main dosyasýný derleyin gcc -o \<derlenmiþ dosya adý\> main.c
+  \li dosyayý çalýþtýrýn ./\<derlenmiþ dosya adý\>
+
+  \subsection Windows Windows ortamýnda derleme
+  \li Terminal açýn win+R sonra cmd yazýn.
+  \li derleyici yoluna gidin cd \<derleyici yolu\>\\
+  \li main dosyasýný derleyin mingw32-g++.exe –o \<dosya yolu\>\\\<derlenmiþ dosya adý\>.exe \<dosya yolu\>\\main.c
+  \li dosyayý çalýþtýrýn \<derlenmiþ dosya adý\>.exe
+*/
